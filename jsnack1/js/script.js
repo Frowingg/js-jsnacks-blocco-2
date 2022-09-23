@@ -1,3 +1,5 @@
+// faccio inserire numeri all'utente e li sommo finchè non arrivo alla somma 50
+
 let array = [];
 let userNumber;
 let sum = 0;
